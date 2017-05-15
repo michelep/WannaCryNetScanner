@@ -1,6 +1,6 @@
 # WannaCryNetScanner
-A simple python scanner to detect vulnerable hosts in your net
-
+A simple python scanner to detect vulnerable hosts in your net. It checks for open TCP/445 port and try to exploit using MS17-010 vulnerability. 
+Based on metasploit MS17-010 module.
 
 ### Usage
 ```
